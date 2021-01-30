@@ -1,6 +1,6 @@
 # FirebaseCloudStorage
 
-
+<img src="https://github.com/loydkim/Flutter_Firebase_FireStore_2021/blob/main/FirebaseFirestore_short.gif" width="300" height="520">
 
 The code is not using Authentication. so you have to change the rule in firebase console
 
